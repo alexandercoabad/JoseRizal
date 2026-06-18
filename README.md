@@ -4,6 +4,8 @@
 Link to the VGA playground:
 https://fpga.vga-playground.pages.dev/?repo=https://github.com/alexandercoabad/JoseRizal
 
+<img width="692" height="636" alt="image" src="https://github.com/user-attachments/assets/8971262f-ac45-4d94-94e4-f5e0b0e18f77" />
+
 
 ## Link to the 3D viewer 
 https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/JoseRizal/tinytapeout.oas&pdk=sky130A
