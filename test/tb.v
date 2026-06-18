@@ -28,7 +28,7 @@ module tb ();
 `endif
 
   // Replace tt_um_example with your module name:
-  tt_um_tinytapeout_dvd_screensaver user_project (
+  tt_um_vga_example user_project (
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
