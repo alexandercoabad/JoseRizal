@@ -6,6 +6,10 @@ https://fpga.vga-playground.pages.dev/?repo=https://github.com/alexandercoabad/J
 
 <img width="692" height="636" alt="image" src="https://github.com/user-attachments/assets/8971262f-ac45-4d94-94e4-f5e0b0e18f77" />
 
+<img width="1179" height="1540" alt="af41da2a-fbe6-4c08-9543-ecfb8ebaaecb" src="https://github.com/user-attachments/assets/a5a12f8a-6f45-4be2-8124-a1206c39cae9" />
+
+<img width="1179" height="1720" alt="83eb4b5a-cf4d-41f5-bbff-c6ac15c06f57" src="https://github.com/user-attachments/assets/e6d440c4-9b8c-48d3-97d2-ac4237c63a82" />
+
 
 ## Link to the 3D viewer 
 https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/JoseRizal/tinytapeout.oas&pdk=sky130A
