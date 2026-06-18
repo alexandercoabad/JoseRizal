@@ -1,7 +1,8 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
 # Jose Rizal DVD-like screensaver
-
+Link to the VGA playground:
+https://fpga.vga-playground.pages.dev/?repo=https://github.com/alexandercoabad/JoseRizal
 
 
 ## Link to the 3D viewer 
